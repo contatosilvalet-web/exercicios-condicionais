@@ -1,4 +1,4 @@
-# Back-end | Condicionais
+# Condicionais
 
 ## Exercícios
 
