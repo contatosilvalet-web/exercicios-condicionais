@@ -29,8 +29,8 @@
 
 Preencha a checklist para fazer os exercícios:
 
--   [ ] Fazer o fork do repositório para sua conta
--   [ ] Executar `git clone` do seu fork no terminal
+-   [✓] Fazer o fork do repositório para sua conta
+-   [✓] Executar `git clone` do seu fork no terminal
 -   [ ] Resolver os 7 exercícios **obrigatórios**
 -   [ ] Resolver também os exercícios **opcionais** para reforçar o aprendizado
 -   [ ] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos ou `git add nome_do_arquivo` para adicionar um arquivo específico)
