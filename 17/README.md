@@ -33,9 +33,9 @@ Preencha a checklist para finalizar o exercício:
 
 Preencha a checklist para finalizar o exercício:
 
-- [ ] Resolver o exercício revendo a aula se necessário
-- [ ] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos, ou `git add nome_do_arquivo` para adicionar um arquivo específico)
-- [ ] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
-- [ ] Pushar os commits na sua branch na origem (`git push origin main`)
+- [✔️ ] Resolver o exercício revendo a aula se necessário
+- [✔️ ] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos, ou `git add nome_do_arquivo` para adicionar um arquivo específico)
+- [✔️ ] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
+- [✔️ ] Pushar os commits na sua branch na origem (`git push origin main`)
 
 ###### tags: `lógica` `módulo 1` `exercício de classe` `nodeJS`
